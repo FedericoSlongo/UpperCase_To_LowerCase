@@ -1,0 +1,7 @@
+C:\Users\fslongo\source\repos\Stringhe Maiuscole e Minuscole\Stringhe Maiuscole e Minuscole\bin\Debug\Stringhe Maiuscole e Minuscole.exe.config
+C:\Users\fslongo\source\repos\Stringhe Maiuscole e Minuscole\Stringhe Maiuscole e Minuscole\bin\Debug\Stringhe Maiuscole e Minuscole.exe
+C:\Users\fslongo\source\repos\Stringhe Maiuscole e Minuscole\Stringhe Maiuscole e Minuscole\bin\Debug\Stringhe Maiuscole e Minuscole.pdb
+C:\Users\fslongo\source\repos\Stringhe Maiuscole e Minuscole\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.csproj.CoreCompileInputs.cache
+C:\Users\fslongo\source\repos\Stringhe Maiuscole e Minuscole\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.exe
+C:\Users\fslongo\source\repos\Stringhe Maiuscole e Minuscole\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.pdb
+C:\Users\fslongo\source\repos\Stringhe Maiuscole e Minuscole\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.csproj.AssemblyReference.cache
