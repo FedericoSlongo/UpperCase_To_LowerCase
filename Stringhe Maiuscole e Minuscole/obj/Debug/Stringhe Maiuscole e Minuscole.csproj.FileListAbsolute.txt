@@ -5,3 +5,11 @@ C:\Users\fslongo\source\repos\Stringhe Maiuscole e Minuscole\Stringhe Maiuscole 
 C:\Users\fslongo\source\repos\Stringhe Maiuscole e Minuscole\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.exe
 C:\Users\fslongo\source\repos\Stringhe Maiuscole e Minuscole\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.pdb
 C:\Users\fslongo\source\repos\Stringhe Maiuscole e Minuscole\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.csproj.AssemblyReference.cache
+C:\Users\infoc\RiderProjects\UpperCase_And_LowerCase\Stringhe Maiuscole e Minuscole\bin\Debug\Stringhe Maiuscole e Minuscole.exe.config
+C:\Users\infoc\RiderProjects\UpperCase_And_LowerCase\Stringhe Maiuscole e Minuscole\bin\Debug\Stringhe Maiuscole e Minuscole.exe
+C:\Users\infoc\RiderProjects\UpperCase_And_LowerCase\Stringhe Maiuscole e Minuscole\bin\Debug\Stringhe Maiuscole e Minuscole.pdb
+C:\Users\infoc\RiderProjects\UpperCase_And_LowerCase\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.csproj.AssemblyReference.cache
+C:\Users\infoc\RiderProjects\UpperCase_And_LowerCase\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.csproj.SuggestedBindingRedirects.cache
+C:\Users\infoc\RiderProjects\UpperCase_And_LowerCase\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.csproj.CoreCompileInputs.cache
+C:\Users\infoc\RiderProjects\UpperCase_And_LowerCase\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.exe
+C:\Users\infoc\RiderProjects\UpperCase_And_LowerCase\Stringhe Maiuscole e Minuscole\obj\Debug\Stringhe Maiuscole e Minuscole.pdb
